@@ -1,0 +1,7 @@
+JSON
+npm install -D tailwindcss
+Config
+npx tailwindcss init
+Path
+npx tailwindcss -i CSS/input.css -o CSS/style.css --watch
+"./*.{html, js}"
